@@ -28,3 +28,13 @@ if ($a > 2) {
    echo "Variabel kurang dari 2";
 }
 ```
+### * JSON
+```json
+{
+    "success": true,
+    "message": "Success insert sesi!",
+    "data": {
+        "id_sesi": "C-456854"
+    }
+}
+```
