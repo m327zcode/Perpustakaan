@@ -1,6 +1,6 @@
 # PROJECT PERPUSTAKAAN SEDERHANA  
 ## Latihan Markdown
-### HTML
+### 1. HTML
 ```html
  <!DOCTYPE html>
  <html>
@@ -14,12 +14,12 @@
  </html>  
 ```
   
-### Javascript
+### 2. Javascript
 ```javascript
   console.log('test')
 ```
 
-### PHP
+### 3. PHP
 ```php
 $a = 5;
 if ($a > 2) {
