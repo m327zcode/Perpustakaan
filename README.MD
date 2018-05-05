@@ -1,5 +1,25 @@
-# PROJECT PERPUSTAKAAN SEDERHANA  
-## Latihan Markdown
+# Belajar Markdown  
+
+## Typography
+
+### 1. Italic
+
+Membuat font menjadi bold adalah dengan menambah tanda `*` atau `_` di awal dan akhir kata atau kalimat
+
+### 2. Bold
+
+Membuat font menjadi bold adalah dengan menambah tanda `**` atau `__` di awal dan akhir kata atau kalimat
+
+### 3. Bold Italic
+
+Membuat font menjadi bold adalah dengan menambah tanda `***` atau `___` di awal dan akhir kata atau kalimat
+
+### 3. Strike
+
+Membuat font menjadi bold adalah dengan menambah tanda `~~` atau `~~` di awal dan akhir kata atau kalimat
+
+## Code
+
 ### 1. HTML
 ```html
  <!DOCTYPE html>
