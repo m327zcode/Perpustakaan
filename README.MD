@@ -5,18 +5,22 @@
 ### 1. Italic
 
 Membuat font menjadi bold adalah dengan menambah tanda `*` atau `_` di awal dan akhir kata atau kalimat
+*test* 
 
 ### 2. Bold
 
 Membuat font menjadi bold adalah dengan menambah tanda `**` atau `__` di awal dan akhir kata atau kalimat
+**test** 
 
 ### 3. Bold Italic
 
 Membuat font menjadi bold adalah dengan menambah tanda `***` atau `___` di awal dan akhir kata atau kalimat
+***test*** 
 
 ### 3. Strike
 
 Membuat font menjadi bold adalah dengan menambah tanda `~~` atau `~~` di awal dan akhir kata atau kalimat
+~~test~~ 
 
 ## Code
 
